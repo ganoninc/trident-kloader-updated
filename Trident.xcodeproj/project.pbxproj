@@ -336,7 +336,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_CFLAGS = "-fno-stack-protector";
-				PRODUCT_BUNDLE_IDENTIFIER = com.kaliadssddsdspps.Trident;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ganoninc.Tridentkloader;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/Headers";
@@ -356,7 +356,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_CFLAGS = "-fno-stack-protector";
-				PRODUCT_BUNDLE_IDENTIFIER = com.kaliadssddsdspps.Trident;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ganoninc.Tridentkloader;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/Headers";
