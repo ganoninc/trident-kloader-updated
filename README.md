@@ -1,6 +1,6 @@
 # Trident + Kloader updated 
 
-The original version by torachiyo didn't work for the iPad, so here it is.
+The original version by torachiyo didn't work for the iPad, so here it is updated.
 
 I successfully downgraded an iPad2,1 from 9.3.3 to 6.1.3 using those updated sources and the libimobiledevice MinGW Build (https://mega.nz/#!tt9zTB6D!S_uzQWfogZIuKzLACrFY56Rb_CTC0Oj0X1re6myU3T0) on Windows 10.
 
