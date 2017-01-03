@@ -32,3 +32,17 @@ It should work on the following devices:
 * iPad3,2 (J2AP), iOS 9.3.2 (Eagle 13E238)
 * iPad3,3 (J2AAP), iOS 9.3.3 (Genoa 13G34)
 * iPod5,1 (N78AP), iOS 9.3.2 (Frisco 13F69)
+
+But only those devices can be downgraded to iOS 6.1.3 because the OTA update is still signed for devices sold with iOS 5:
+
+* iPhone4,1 (N94AP), iOS 9.3 (Eagle 13E233)
+* iPhone4,1 (N94AP), iOS 9.3 (Eagle 13E237)
+* iPhone4,1 (N94AP), iOS 9.3.1 (Eagle 13E238)
+* iPhone4,1 (N94AP), iOS 9.3.2 (Frisco 13F69)
+* iPhone4,1 (N94AP), iOS 9.3.3 (Genoa 13G34)
+* iPhone4,1 (N94AP), iOS 9.3.4 (Genoa 13G35)
+* iPad2,1 (K93AP), iOS 9.3.1 (Eagle 13E238)
+* iPad2,1 (K93AP), iOS 9.3.2 (Frisco 13F69)
+* iPad2,1 (K93AP), iOS 9.3.3 (Genoa 13G34)
+* iPad2,2 (K94AP), iOS 9.3.2 (Frisco 13F69)
+
