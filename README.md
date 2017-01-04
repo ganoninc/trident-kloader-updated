@@ -50,7 +50,7 @@ But only those devices can be downgraded to iOS 6.1.3 because the OTA update for
 
 Wait a few seconds after pressing the start button.
 
-### Mini guide
+### Mini guide for iPad 2,1 (Wifi only)
 
 On my iPad2 (Wifi only), I saw a vertical green line on the right of the screen.
 
