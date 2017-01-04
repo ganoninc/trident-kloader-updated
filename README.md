@@ -52,7 +52,7 @@ Wait a few seconds after pressing the start button.
 
 
 
-On the iPad2, I saw a veritcal green line on the right of the screen.
+On the iPad2, I saw a vertical green line on the right of the screen.
 
 After I put the iPad 2 in sleep mode
 ```Bash
