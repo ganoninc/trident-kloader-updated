@@ -1,8 +1,8 @@
 # Trident + Kloader updated 
 
-The original version by torachiyo didn't work for the iPad2,1 iOS 9.3.3 and 9.3.1, so here it is updated.
+The original version by torachiyo didn't work for the iPad2,1 (Wifi only) iOS 9.3.3 and 9.3.1, so here it is updated.
 
-I successfully downgraded an iPad2,1 from 9.3.3 to 6.1.3 using those updated sources, the libimobiledevice MinGW Build (https://mega.nz/#!tt9zTB6D!S_uzQWfogZIuKzLACrFY56Rb_CTC0Oj0X1re6myU3T0) and odysseusOTA (http://dayt0n.github.io/odysseus/odysseus-0.999.zip) on Windows 10.
+I successfully downgraded my iPad2,1 from 9.3.3 to 6.1.3 using those updated sources, the libimobiledevice MinGW Build (https://mega.nz/#!tt9zTB6D!S_uzQWfogZIuKzLACrFY56Rb_CTC0Oj0X1re6myU3T0) and odysseusOTA (http://dayt0n.github.io/odysseus/odysseus-0.999.zip) on Windows 10.
 
 * Original Trident exploit: https://github.com/benjamin-42/Trident
 * Original Trident + Kloader for iPhone 4S: http://bbs.feng.com/forum.php?mod=viewthread&tid=11005851&extra=page%3D1
@@ -50,19 +50,20 @@ But only those devices can be downgraded to iOS 6.1.3 because the OTA update for
 
 Wait a few seconds after pressing the start button.
 
+### Mini guide
 
+On my iPad2 (Wifi only), I saw a vertical green line on the right of the screen.
 
-On the iPad2, I saw a vertical green line on the right of the screen.
-
-After I put the iPad 2 in sleep mode with libimobiledevice
+After I put my iPad 2 (Wifi only) in sleep mode with libimobiledevice
 ```Bash
 idevicediagnostics sleep
 ```
 
-and when the screen was black I used odysseusOTA with the correct 6.1.3 IPSW for my iPad2
+and when the screen was black I used odysseusOTA with the correct 6.1.3 IPSW for my iPad2 (Wifi only)
 
 ```Bash
 idevicerestore -e iPad2,1_6.1.3_10B329_Restore.ipsw
 ```
+### Important note about the Mini guide
 
 ** iPhone 4S and iPad 2 (Wifi + 3G) users should follow another guide because this one doesn't downgrade the baseband, so if you don't downgrade the baseband too, your phone or the cellular connection of your iPad 2 will not work. Check this tutorial on reddit: https://www.reddit.com/r/jailbreak/comments/5l9pqy/tutorial_how_to_downgrade_to_ios_613_on_the/
