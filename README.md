@@ -64,3 +64,5 @@ and when the screen was black I used odysseusOTA with the correct 6.1.3 IPSW for
 ```Bash
 idevicerestore -e iPad2,1_6.1.3_10B329_Restore.ipsw
 ```
+
+** iPhone 4S and iPad 2 (Wifi + 3G) users should follow another guide because this one doesn't downgrade the baseband, so if you don't downgrade the baseband too, your phone or the cellular connection of your iPad 2 will not work. Check this tutorial on reddit: https://www.reddit.com/r/jailbreak/comments/5l9pqy/tutorial_how_to_downgrade_to_ios_613_on_the/
