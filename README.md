@@ -4,8 +4,8 @@ The original version by torachiyo didn't work for the iPad2,1 iOS 9.3.3 and 9.3.
 
 I successfully downgraded an iPad2,1 from 9.3.3 to 6.1.3 using those updated sources,the libimobiledevice MinGW Build (https://mega.nz/#!tt9zTB6D!S_uzQWfogZIuKzLACrFY56Rb_CTC0Oj0X1re6myU3T0) and odysseusOTA (http://dayt0n.github.io/odysseus/odysseus-0.999.zip) on Windows 10.
 
-Original Trident exploit: https://github.com/benjamin-42/Trident
-Original Trident + Kloader for iPhone 4S: http://bbs.feng.com/forum.php?mod=viewthread&tid=11005851&extra=page%3D1
+* Original Trident exploit: https://github.com/benjamin-42/Trident
+* Original Trident + Kloader for iPhone 4S: http://bbs.feng.com/forum.php?mod=viewthread&tid=11005851&extra=page%3D1
 
 
 It should work on the following devices:
@@ -33,7 +33,7 @@ It should work on the following devices:
 * iPad3,3 (J2AAP), iOS 9.3.3 (Genoa 13G34)
 * iPod5,1 (N78AP), iOS 9.3.2 (Frisco 13F69)
 
-But only those devices can be downgraded to iOS 6.1.3 because the OTA update is still signed for devices sold with iOS 5:
+But only those devices can be downgraded to iOS 6.1.3 because the OTA update for iOS 6.1.3 is still signed for devices sold with iOS 5.0:
 
 * iPhone4,1 (N94AP), iOS 9.3 (Eagle 13E233)
 * iPhone4,1 (N94AP), iOS 9.3 (Eagle 13E237)
