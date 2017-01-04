@@ -2,7 +2,7 @@
 
 The original version by torachiyo didn't work for the iPad2,1 iOS 9.3.3 and 9.3.1, so here it is updated.
 
-I successfully downgraded an iPad2,1 from 9.3.3 to 6.1.3 using those updated sources and the libimobiledevice MinGW Build (https://mega.nz/#!tt9zTB6D!S_uzQWfogZIuKzLACrFY56Rb_CTC0Oj0X1re6myU3T0) on Windows 10.
+I successfully downgraded an iPad2,1 from 9.3.3 to 6.1.3 using those updated sources,the libimobiledevice MinGW Build (https://mega.nz/#!tt9zTB6D!S_uzQWfogZIuKzLACrFY56Rb_CTC0Oj0X1re6myU3T0) and odysseusOTA (http://dayt0n.github.io/odysseus/odysseus-0.999.zip) on Windows 10.
 
 Original Trident exploit: https://github.com/benjamin-42/Trident
 Original Trident + Kloader for iPhone 4S: http://bbs.feng.com/forum.php?mod=viewthread&tid=11005851&extra=page%3D1
@@ -54,12 +54,12 @@ Wait a few seconds after pressing the start button.
 
 On the iPad2, I saw a vertical green line on the right of the screen.
 
-After I put the iPad 2 in sleep mode
+After I put the iPad 2 in sleep mode with libimobiledevice
 ```Bash
 idevicediagnostics sleep
 ```
 
-and when the screen was black 
+and when the screen was black I used odysseusOTA with the correct 6.1.3 IPSW for my iPad2
 
 ```Bash
 idevicerestore -e iPad2,1_6.1.3_10B329_Restore.ipsw
