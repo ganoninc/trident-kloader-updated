@@ -48,7 +48,7 @@ But only those devices can be downgraded to iOS 6.1.3 because the OTA update for
 * iPad2,3 (K95AP), iOS 9.3.2 (Frisco 13F69)
 * iPad2,3 (K95AP), iOS 9.3.3 (Genoa 13G34)
 
-## A compiled ipa is in the build directory, use Cydia Impactor to install it. 
+## A compiled ipa made by junmatsuzawa is in the build directory, use Cydia Impactor to install it. 
 
 Wait a few seconds after pressing the start button.
 
