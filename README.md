@@ -23,13 +23,15 @@ If your device (excluding the iPad2,4 - see below) is not on the list submit an 
   * iOS 9.3.4 (Genoa 13G35)
 
 * iPhone 5 GSM [iPhone5,1 (N41AP)]:
-  * iOS 9.3.2 (Frisco 13F69)
+  * iOS 9.3.2 (Frisco 13F69) (use version ipa 1.2.1)
 
 * iPhone 5 Global [iPhone5,2 (N42AP)]:
+  * iOS 9.2 (Castlerock 13C57)
   * iOS 9.2.1 (Dillon 13D15)
   * iOS 9.3.2 (Frisco 13F69)
 
 * iPhone 5c GSM [iPhone5,3 (N48AP)]:
+  * iOS 9.2.1 (Dillon 13D15)
   * iOS 9.3.2 (Frisco 13F69)
   * iOS 9.3.3 (Genoa 13G34)
 
@@ -38,6 +40,7 @@ If your device (excluding the iPad2,4 - see below) is not on the list submit an 
 
 * iPad 2 WiFi [iPad2,1 (K93AP)]:
   * iOS 9.2 (Castlerock 13C57)
+  * iOS 9.2.1 (Dillon 13D15)
   * iOS 9.3 (Eagle 13E233)
   * iOS 9.3 (Eagle 13E237)
   * iOS 9.3.1 (Eagle 13E238)
@@ -46,12 +49,24 @@ If your device (excluding the iPad2,4 - see below) is not on the list submit an 
   * iOS 9.3.4 (Genoa 13G35)
 
 * iPad 2 GSM [iPad2,2 (K94AP)]:
+  * iOS 9.2 (Castlerock 13C57)
+  * iOS 9.2.1 (Dillon 13D15)
+  * iOS 9.3 (Eagle 13E233)
+  * iOS 9.3 (Eagle 13E237)
+  * iOS 9.3.1 (Eagle 13E238)
   * iOS 9.3.2 (Frisco 13F69)
   * iOS 9.3.3 (Genoa 13G34)
+  * iOS 9.3.4 (Genoa 13G35)
 
 * iPad 2 CDMA [iPad2,3 (K95AP)]:
+  * iOS 9.2 (Castlerock 13C57)
+  * iOS 9.2.1 (Dillon 13D15)
+  * iOS 9.3 (Eagle 13E233)
+  * iOS 9.3 (Eagle 13E237)
+  * iOS 9.3.1 (Eagle 13E238)
   * iOS 9.3.2 (Frisco 13F69)
   * iOS 9.3.3 (Genoa 13G34)
+  * iOS 9.3.4 (Genoa 13G35)
 
 * iPad 3 Wifi [iPad3,1 (J1AP)]:
   * iOS 9.3.4 (Genoa 13G35)
@@ -69,9 +84,15 @@ If your device (excluding the iPad2,4 - see below) is not on the list submit an 
     This Device is a special case, its not possible to really support the device than through trial and error, since there are NO public keys for the firmwares which makes finding the right memory offsets quite the challenge.  
     You may still request support for this device, but dont expect anythingthing from it!  
     Also Trident+Kloader is because of said problem not useful for owners of these devices, they cant utilize odysseus anyway.
-   With that said, these versions are supported anyway:
-  * iOS 9.3.2 (Frisco 13F69) (Unstable)
-  * iOS 9.3.4 (Genoa 13G35) (Untested, please report if faulty)
+   With that said, these versions are supported anyway, use at your own risk!:
+  * iOS 9.2 (Castlerock 13C57)
+  * iOS 9.2.1 (Dillon 13D15)
+  * iOS 9.3 (Eagle 13E233)
+  * iOS 9.3 (Eagle 13E237)
+  * iOS 9.3.1 (Eagle 13E238)
+  * iOS 9.3.2 (Frisco 13F69)
+  * iOS 9.3.3 (Genoa 13G34)
+  * iOS 9.3.4 (Genoa 13G35)
 
  
 ### The following devices can be downgraded to 6.1.3 with Trident+Kloader:
