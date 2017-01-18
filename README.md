@@ -1,5 +1,7 @@
 # Trident + Kloader Updated 
 
+#### IMPORTANT NOTICE! The iPhones 5,1 5,2 5,3 and the iPads 3,1 3,2 3,3 experience issues on 9.3.x. We are aware of the problem. If you experience issues on said devices please DONT open another issue thread! Instead comment on an already existing one, thanks!
+
 The original version by torachiyo didn't work for some firmwares/ devices, so here it is updated.  
 * Original Verion can be found here: Trident + Kloader for iPhone 4S http://bbs.feng.com/forum.php?mod=viewthread&tid=11005851&extra=page%3D1  
 
