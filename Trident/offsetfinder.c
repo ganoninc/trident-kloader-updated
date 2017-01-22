@@ -931,6 +931,67 @@ uint32_t find_setreuid(void) {
 	}
 }
 
+uint32_t find_setreuid_cred_update(void) {
+    switch (target_environment) {
+        // iPhone 4S (iPhone4,1)
+        case iPhone41_iOS921: return 0xe031;
+        case iPhone41_iOS930: return 0xe031;
+        case iPhone41_iOS931: return 0xe031;
+        case iPhone41_iOS932: return 0xe031;
+        case iPhone41_iOS933: return 0xe031;
+        case iPhone41_iOS934: return 0xe031;
+        // iPhone 5 Global (iPhone5,2)
+        case iPhone52_iOS920: return 0xe031;
+        case iPhone52_iOS921: return 0xe031;
+        case iPhone52_iOS932: return 0xe031;
+        // iPhone 5c GSM (iPhone5,3)
+        case iPhone53_iOS921: return 0xe031;
+        case iPhone53_iOS932: return 0xe031;
+        case iPhone53_iOS933: return 0xe031;
+        // iPad 2 Wifi (iPad2,1)
+        case iPad21_iOS920: return 0xe031;
+        case iPad21_iOS921: return 0xe031;
+        case iPad21_iOS930: return 0xe031;
+        case iPad21_iOS931: return 0xe031;
+        case iPad21_iOS932: return 0xe031;
+        case iPad21_iOS933: return 0xe031;
+        case iPad21_iOS934: return 0xe031;
+        // iPad 2 GSM (iPad2,2)
+        case iPad22_iOS920: return 0xe031;
+        case iPad22_iOS921: return 0xe031;
+        case iPad22_iOS930: return 0xe031;
+        case iPad22_iOS931: return 0xe031;
+        case iPad22_iOS932: return 0xe031;
+        case iPad22_iOS933: return 0xe031;
+        case iPad22_iOS934: return 0xe031;
+        // iPad 2 CDMA (iPad 2,3)
+        case iPad23_iOS920: return 0xe031;
+        case iPad23_iOS921: return 0xe031;
+        case iPad23_iOS930: return 0xe031;
+        case iPad23_iOS931: return 0xe031;
+        case iPad23_iOS932: return 0xe031;
+        case iPad23_iOS933: return 0xe031;
+        case iPad23_iOS934: return 0xe031;
+        // iPad 2 Wifi Mid 2016 16gb only model (iPad2,4)
+        case iPad24_iOS920: return 0xe031;
+        case iPad24_iOS921: return 0xe031;
+        case iPad24_iOS930: return 0xe031;
+        case iPad24_iOS931: return 0xe031;
+        case iPad24_iOS932: return 0xe031;
+        case iPad24_iOS933: return 0xe031;
+        case iPad24_iOS934: return 0xe031;
+        // iPad 3 Wifi (iPad3,1)
+        case iPad31_iOS934: return 0xe031;
+        // iPad 3 CDMA (iPad3,2)
+        case iPad32_iOS931: return 0xe031;
+        // iPad 3 GSM (iPad3,3)
+        case iPad33_iOS933: return 0xe031;
+        // iPod touch 5 (iPod5,1)
+        case iPod51_iOS932: return 0xe031;
+        default: abort();
+    }
+}
+
 uint32_t find_pid_check(void) {
 	switch (target_environment) {
 		// iPhone 4S (iPhone4,1)

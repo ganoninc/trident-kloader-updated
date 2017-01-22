@@ -106,6 +106,9 @@ uint32_t find_task_for_pid(void);
 // setreuid
 uint32_t find_setreuid(void);
 
+// setreuid cred update
+uint32_t find_setreuid_cred_update(void);
+
 // pid_check_addr offset
 uint32_t find_pid_check(void);
 
