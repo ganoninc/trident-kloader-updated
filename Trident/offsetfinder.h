@@ -13,6 +13,7 @@
 
 typedef enum {
 	NotSupported,
+	iPhone41_iOS920,
 	iPhone41_iOS921,
 	iPhone41_iOS930,
 	iPhone41_iOS931,
@@ -25,7 +26,7 @@ typedef enum {
 	iPhone53_iOS921,
 	iPhone53_iOS932,
 	iPhone53_iOS933,
-    iPad21_iOS920,
+	iPad21_iOS920,
 	iPad21_iOS921,
 	iPad21_iOS930,
 	iPad21_iOS931,
@@ -56,6 +57,7 @@ typedef enum {
 	iPad31_iOS934,
 	iPad32_iOS931,
 	iPad33_iOS933,
+	iPod51_iOS910,
 	iPod51_iOS932
 } t_target_environment;
 
