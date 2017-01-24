@@ -16,6 +16,7 @@ Usage description and Information can be found futher down!
 If your device (excluding the iPad2,4 - see below) is not on the list submit an issue report with your model number and Version, and we'll try to add it.
 
 * iPhone 4S [iPhone4,1 (N94AP)]:
+  * iOS 9.2 (Castlerock 13C57)
   * iOS 9.2.1 (Dillon 13D15)
   * iOS 9.3 (Eagle 13E233)
   * iOS 9.3 (Eagle 13E237)  
@@ -80,6 +81,7 @@ If your device (excluding the iPad2,4 - see below) is not on the list submit an 
   * iOS 9.3.3 (Genoa 13G34)
 
 * iPod touch 5 [iPod5,1 (N78AP)]:
+  * iOS 9.1 (Boulder 13B143)
   * iOS 9.3.2 (Frisco 13F69)
 
 * iPad 2 Wifi (Mid 2012) 16gb-Only-Model [iPad2,4 (K93AAP)]  
