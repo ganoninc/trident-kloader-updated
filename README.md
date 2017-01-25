@@ -42,6 +42,7 @@ If your device (excluding the iPad2,4 - see below) is not on the list submit an 
   * None (yet)
 
 * iPad 2 WiFi [iPad2,1 (K93AP)]:
+  * iOS 9.1 (Boulder 13B143)
   * iOS 9.2 (Castlerock 13C57)
   * iOS 9.2.1 (Dillon 13D15)
   * iOS 9.3 (Eagle 13E233)
@@ -52,6 +53,7 @@ If your device (excluding the iPad2,4 - see below) is not on the list submit an 
   * iOS 9.3.4 (Genoa 13G35)
 
 * iPad 2 GSM [iPad2,2 (K94AP)]:
+  * iOS 9.1 (Boulder 13B143)
   * iOS 9.2 (Castlerock 13C57)
   * iOS 9.2.1 (Dillon 13D15)
   * iOS 9.3 (Eagle 13E233)
@@ -62,6 +64,7 @@ If your device (excluding the iPad2,4 - see below) is not on the list submit an 
   * iOS 9.3.4 (Genoa 13G35)
 
 * iPad 2 CDMA [iPad2,3 (K95AP)]:
+  * iOS 9.1 (Boulder 13B143)
   * iOS 9.2 (Castlerock 13C57)
   * iOS 9.2.1 (Dillon 13D15)
   * iOS 9.3 (Eagle 13E233)
@@ -89,6 +92,7 @@ If your device (excluding the iPad2,4 - see below) is not on the list submit an 
     You may still request support for this device, but dont expect anythingthing from it!  
     Also Trident+Kloader is because of said problem not useful for owners of these devices, they cant utilize odysseus anyway.
    With that said, these versions are supported anyway, use at your own risk!:
+  * iOS 9.1 (Boulder 13B143)
   * iOS 9.2 (Castlerock 13C57)
   * iOS 9.2.1 (Dillon 13D15)
   * iOS 9.3 (Eagle 13E233)
