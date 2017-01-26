@@ -28,7 +28,7 @@ void init_target_environment(const char *device_model, const char *system_versio
 uint32_t find_OSSerializer_serialize(void) {
     switch (target_environment) {
             // iPhone 4S (iPhone4,1)
-        case iPhone41_iOS933: return 0x318388;
+        case iPhone41_iOS933: return 0x318444; //
         default: abort();
     }
 }
@@ -36,7 +36,7 @@ uint32_t find_OSSerializer_serialize(void) {
 uint32_t find_OSSymbol_getMetaClass(void) {
     switch (target_environment) {
             // iPhone 4S (iPhone4,1)
-        case iPhone41_iOS933: return 0x31ab90;
+        case iPhone41_iOS933: return 0x31ac4c; //
         default: abort();
     }
 }
@@ -44,7 +44,7 @@ uint32_t find_OSSymbol_getMetaClass(void) {
 uint32_t find_calend_gettime(void) {
     switch (target_environment) {
             // iPhone 4S (iPhone4,1)
-        case iPhone41_iOS933: return 0x1e200;
+        case iPhone41_iOS933: return 0x1e1d0; //
         default: abort();
     }
 }
@@ -52,7 +52,7 @@ uint32_t find_calend_gettime(void) {
 uint32_t find_bufattr_cpx(void) {
     switch (target_environment) {
             // iPhone 4S (iPhone4,1)
-        case iPhone41_iOS933: return 0xd9838;
+        case iPhone41_iOS933: return 0xd9848; //
         default: abort();
     }
 }
@@ -60,7 +60,7 @@ uint32_t find_bufattr_cpx(void) {
 uint32_t find_clock_ops(void) {
     switch (target_environment) {
             // iPhone 4S (iPhone4,1)
-        case iPhone41_iOS933: return 0x403428;
+        case iPhone41_iOS933: return 0x403428; //
         default: abort();
     }
 }
@@ -68,7 +68,7 @@ uint32_t find_clock_ops(void) {
 uint32_t find_copyin(void) {
     switch (target_environment) {
             // iPhone 4S (iPhone4,1)
-        case iPhone41_iOS933: return 0xc76b4;
+        case iPhone41_iOS933: return 0xc76b4; //
 
         default: abort();
     }
@@ -77,7 +77,7 @@ uint32_t find_copyin(void) {
 uint32_t find_bx_lr(void) {
     switch (target_environment) {
             // iPhone 4S (iPhone4,1)
-        case iPhone41_iOS933: return 0xd983a;
+        case iPhone41_iOS933: return 0xd984a; //
         default: abort();
     }
 }
@@ -85,7 +85,7 @@ uint32_t find_bx_lr(void) {
 uint32_t find_write_gadget(void) {
     switch (target_environment) {
             // iPhone 4S (iPhone4,1)
-        case iPhone41_iOS933: return 0xc73e8;
+        case iPhone41_iOS933: return 0xc73e8; //
         default: abort();
     }
 }
@@ -93,7 +93,7 @@ uint32_t find_write_gadget(void) {
 uint32_t find_vm_kernel_addrperm(void) {
     switch (target_environment) {
             // iPhone 4S (iPhone4,1)
-        case iPhone41_iOS933: return 0x455844;
+        case iPhone41_iOS933: return 0x455844; //
         default: abort();
     }
 }
@@ -101,7 +101,7 @@ uint32_t find_vm_kernel_addrperm(void) {
 uint32_t find_kernel_pmap(void) {
     switch (target_environment) {
             // iPhone 4S (iPhone4,1)
-        case iPhone41_iOS933: return 0x3f6454;
+        case iPhone41_iOS933: return 0x3f6454; //
         default: abort();
     }
 }
@@ -109,7 +109,7 @@ uint32_t find_kernel_pmap(void) {
 uint32_t find_flush_dcache(void) {
     switch (target_environment) {
             // iPhone 4S (iPhone4,1)
-        case iPhone41_iOS933: return 0xbc1d4;
+        case iPhone41_iOS933: return 0xbc2c0; // *
         default: abort();
     }
 }
@@ -117,7 +117,7 @@ uint32_t find_flush_dcache(void) {
 uint32_t find_invalidate_tlb(void) {
     switch (target_environment) {
             // iPhone 4S (iPhone4,1)
-        case iPhone41_iOS933: return 0xc7440;
+        case iPhone41_iOS933: return 0xc7440; //
         default: abort();
     }
 }
@@ -125,7 +125,7 @@ uint32_t find_invalidate_tlb(void) {
 uint32_t find_task_for_pid(void) {
     switch (target_environment) {
             // iPhone 4S (iPhone4,1)
-        case iPhone41_iOS933: return 0x2fcec0;
+        case iPhone41_iOS933: return 0x2fcf60; //*
         default: abort();
     }
 }
@@ -133,7 +133,7 @@ uint32_t find_task_for_pid(void) {
 uint32_t find_setreuid(void) {
     switch (target_environment) {
             // iPhone 4S (iPhone4,1)
-        case iPhone41_iOS933: return 0x2a9988;
+        case iPhone41_iOS933: return 0x2a9a30; //*
         default: abort();
     }
 }
