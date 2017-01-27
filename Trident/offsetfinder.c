@@ -151,7 +151,7 @@ uint32_t find_OSSymbol_getMetaClass(void) {
             // iPhone 5 Global (iPhone5,2)
         case iPhone52_iOS920: return 0x319ea0;
         case iPhone52_iOS921: return 0x319fa0;
-        case iPhone52_iOS932: return 0x322818;
+        case iPhone52_iOS932: return 0x321818;
             // iPhone 5c GSM (iPhone5,3)
         case iPhone53_iOS921: return 0x3176e4;
         case iPhone53_iOS932: return 0x321818;
@@ -212,7 +212,7 @@ uint32_t find_calend_gettime(void) {
             // iPhone 5 Global (iPhone5,2)
         case iPhone52_iOS920: return 0x1ebac;
         case iPhone52_iOS921: return 0x1eb88;
-        case iPhone52_iOS932: return 0x1e170;
+        case iPhone52_iOS932: return 0x1ee6c;
             // iPhone 5c GSM (iPhone5,3)
         case iPhone53_iOS921: return 0x1eb88;
         case iPhone53_iOS932: return 0x1ee6c;
@@ -273,7 +273,7 @@ uint32_t find_bufattr_cpx(void) {
             // iPhone 5 Global (iPhone5,2)
         case iPhone52_iOS920: return 0xdd9dc;
         case iPhone52_iOS921: return 0xdd9dc;
-        case iPhone52_iOS932: return 0xdee6c;
+        case iPhone52_iOS932: return 0xdea48;
             // iPhone 5c GSM (iPhone5,3)
         case iPhone53_iOS921: return 0xdd9dc;
         case iPhone53_iOS932: return 0xdea48;
