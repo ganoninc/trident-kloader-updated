@@ -33,6 +33,7 @@ If your device (excluding the iPad2,4 - see below) is not on the list submit an 
   * iOS 9.2 (Castlerock 13C57)
   * iOS 9.2.1 (Dillon 13D15)
   * iOS 9.3.2 (Frisco 13F69)
+  * iOS 9.3.4 (Genoa 13G35)
 
 * iPhone 5c GSM [iPhone5,3 (N48AP)]:
   * iOS 9.2.1 (Dillon 13D15)
