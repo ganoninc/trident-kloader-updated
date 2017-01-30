@@ -27,6 +27,7 @@ If your device (excluding the iPad2,4 - see below) is not on the list submit an 
 
 * iPhone 5 GSM [iPhone5,1 (N41AP)]:
   * iOS 9.3.2 (Frisco 13F69) (use version ipa 1.2.1)
+  * iOS 9.3.3 (Genoa 13G34) (use version ipa 1.2.4)
 
 * iPhone 5 Global [iPhone5,2 (N42AP)]:
   * iOS 9.2 (Castlerock 13C57)
