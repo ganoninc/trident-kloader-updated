@@ -16,7 +16,7 @@ Usage description and Information can be found futher down!
 If your device (excluding the iPad2,4 - see below) is not on the list submit an issue report with your model number and Version, and we'll try to add it.
 
 * iPhone 4S [iPhone4,1 (N94AP)]:
-  * iOS 9.2 (Castlerock 13C57)
+  * iOS 9.1 (Boulder 13B143)
   * iOS 9.2.1 (Dillon 13D15)
   * iOS 9.3 (Eagle 13E233)
   * iOS 9.3 (Eagle 13E237)  
