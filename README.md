@@ -1,6 +1,6 @@
-# Trident-Kloader Updated 
+# Trident + Kloader (updated version) 
 
-Trident-kloader allows people with 32-Bit devices on iOS 9.1-9.3.4 to downgrade their device, without the use of a fully fledged jailbreak.
+Trident + kloader (updated version) allows people with 32-Bit devices on iOS 9.1-9.3.4 to downgrade their device, without the use of a fully fledged jailbreak.
 
 It makes use of the Trident exploit chain.  
 * Original Trident exploit: https://github.com/benjamin-42/Trident  
