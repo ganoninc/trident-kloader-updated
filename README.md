@@ -3,7 +3,7 @@
 Trident+kloader is a utility that makes use of the Trident exploit chain.  
 * Original Trident exploit: https://github.com/benjamin-42/Trident  
 
-The original version by torachiyo didn't work for some firmwares/ devices, so here it is updated.  
+The original version by torachiyo didn't work for some firmwares/devices, so here it is updated.  
 * Original Verion can be found here: Trident + Kloader for iPhone 4S http://bbs.feng.com/forum.php?mod=viewthread&tid=11005851&extra=page%3D1  
 
 
