@@ -1,17 +1,17 @@
 # Trident + Kloader Updated 
 
-The original version by torachiyo didn't work for some firmwares/ devices, so here it is updated.  
-* Original Verion can be found here: Trident + Kloader for iPhone 4S http://bbs.feng.com/forum.php?mod=viewthread&tid=11005851&extra=page%3D1  
-
 Trident+kloader is a utility that makes use of the Trident exploit chain.  
 * Original Trident exploit: https://github.com/benjamin-42/Trident  
 
-Trident + Kloader is a utility that allows people with 32-Bit devices on iOS 9.1-9.3.4 to downgrade their device, without the use of a fully fledged jailbreak!  
+The original version by torachiyo didn't work for some firmwares/ devices, so here it is updated.  
+* Original Verion can be found here: Trident + Kloader for iPhone 4S http://bbs.feng.com/forum.php?mod=viewthread&tid=11005851&extra=page%3D1  
+
+
+It allows people with 32-Bit devices on iOS 9.1-9.3.4 to downgrade their device, without the use of a fully fledged jailbreak!
+
 Usage description and Information can be found futher down!  
 
-
 ## Supported Firmwares/Devices:
-If your device (excluding the iPad2,4 - see below) is not on the list submit an issue report with your model number and Version, and we'll try to add it.
 
 * iPhone 4S [iPhone4,1 (N94AP)]:
   * iOS 9.1 (Boulder 13B143)
@@ -88,10 +88,6 @@ If your device (excluding the iPad2,4 - see below) is not on the list submit an 
   * iOS 9.3.2 (Frisco 13F69)
 
 * iPad 2 Wifi (Mid 2012) 16gb-Only-Model [iPad2,4 (K93AAP)]  
-    This Device is a special case, its not possible to really support the device than through trial and error, since there are NO public keys for the firmwares which makes finding the right memory offsets quite the challenge.  
-    You may still request support for this device, but dont expect anythingthing from it!  
-    Also Trident+Kloader is because of said problem not useful for owners of these devices, they cant utilize odysseus anyway.
-   With that said, these versions are supported anyway, use at your own risk!:
   * iOS 9.1 (Boulder 13B143)
   * iOS 9.2 (Castlerock 13C57)
   * iOS 9.2.1 (Dillon 13D15)
@@ -101,7 +97,7 @@ If your device (excluding the iPad2,4 - see below) is not on the list submit an 
   * iOS 9.3.2 (Frisco 13F69)
   * iOS 9.3.3 (Genoa 13G34)
   * iOS 9.3.4 (Genoa 13G35)
-
+ 
  
 ### The following devices can be downgraded to 6.1.3 with Trident+Kloader:
 (Because the OTA update for iOS 6.1.3 is still signed for devices sold with iOS 5.0)
