@@ -1059,7 +1059,7 @@ uint32_t find_setreuid_cred_update(void) {
 uint32_t find_pid_check(void) {
     switch (target_environment) {
             // iPhone 4S (iPhone4,1)
-        case iPhone41_iOS910: return 0x14
+        case iPhone41_iOS910: return 0x14;
         case iPhone41_iOS921: return 0x14;
         case iPhone41_iOS930: return 0x14;
         case iPhone41_iOS931: return 0x14;
