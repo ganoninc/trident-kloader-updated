@@ -12,7 +12,7 @@ Usage description and Information can be found futher down!
 ## Supported Firmwares/Devices:
 
 * iPhone 4S [iPhone4,1 (N94AP)]:
-  * iOS 9.1 (Boulder 13B143)
+  * iOS 9.1 (Boulder 13B143) (use version ipa 1.2.5)
   * iOS 9.2.1 (Dillon 13D15)
   * iOS 9.3 (Eagle 13E233)
   * iOS 9.3 (Eagle 13E237)  
