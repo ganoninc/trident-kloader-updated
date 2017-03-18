@@ -13,6 +13,7 @@ Usage description and Information can be found futher down!
 
 * iPhone 4S [iPhone4,1 (N94AP)]:
   * iOS 9.1 (Boulder 13B143) (use version ipa 1.2.5)
+  * iOS 9.2 (Castlerock 13C57)
   * iOS 9.2.1 (Dillon 13D15)
   * iOS 9.3 (Eagle 13E233)
   * iOS 9.3 (Eagle 13E237)  
@@ -22,22 +23,48 @@ Usage description and Information can be found futher down!
   * iOS 9.3.4 (Genoa 13G35)
 
 * iPhone 5 GSM [iPhone5,1 (N41AP)]:
-  * iOS 9.3.2 (Frisco 13F69) (use version ipa 1.2.1)
-  * iOS 9.3.3 (Genoa 13G34) (use version ipa 1.2.4)
-
-* iPhone 5 Global [iPhone5,2 (N42AP)]:
+  * iOS 9.1 (Boulder 13B143)
   * iOS 9.2 (Castlerock 13C57)
   * iOS 9.2.1 (Dillon 13D15)
+  * iOS 9.3 (Eagle 13E233)
+  * iOS 9.3 (Eagle 13E237)
+  * iOS 9.3.1 (Eagle 13E238)
+  * iOS 9.3.2 (Frisco 13F69) (use version ipa 1.2.1)
+  * iOS 9.3.3 (Genoa 13G34) (use version ipa 1.2.4)
+  * iOS 9.3.4 (Genoa 13G35)
+
+* iPhone 5 Global [iPhone5,2 (N42AP)]:
+  * iOS 9.1 (Boulder 13B143)
+  * iOS 9.2 (Castlerock 13C57)
+  * iOS 9.2.1 (Dillon 13D15)
+  * iOS 9.3 (Eagle 13E233)
+  * iOS 9.3 (Eagle 13E237)
+  * iOS 9.3.1 (Eagle 13E238)
   * iOS 9.3.2 (Frisco 13F69)
+  * iOS 9.3.3 (Genoa 13G34)
   * iOS 9.3.4 (Genoa 13G35)
 
 * iPhone 5c GSM [iPhone5,3 (N48AP)]:
+  * iOS 9.1 (Boulder 13B143)
+  * iOS 9.2 (Castlerock 13C57)
   * iOS 9.2.1 (Dillon 13D15)
+  * iOS 9.3 (Eagle 13E233)
+  * iOS 9.3 (Eagle 13E237)
+  * iOS 9.3.1 (Eagle 13E238)
   * iOS 9.3.2 (Frisco 13F69)
   * iOS 9.3.3 (Genoa 13G34)
+  * iOS 9.3.4 (Genoa 13G35)
 
 * iPhone 5c Global [iPhone5,4 (N49AP)]:
-  * None (yet)
+  * iOS 9.1 (Boulder 13B143)
+  * iOS 9.2 (Castlerock 13C57)
+  * iOS 9.2.1 (Dillon 13D15)
+  * iOS 9.3 (Eagle 13E233)
+  * iOS 9.3 (Eagle 13E237)
+  * iOS 9.3.1 (Eagle 13E238)
+  * iOS 9.3.2 (Frisco 13F69)
+  * iOS 9.3.3 (Genoa 13G34)
+  * iOS 9.3.4 (Genoa 13G35)
 
 * iPad 2 WiFi [iPad2,1 (K93AP)]:
   * iOS 9.1 (Boulder 13B143)
@@ -72,19 +99,6 @@ Usage description and Information can be found futher down!
   * iOS 9.3.3 (Genoa 13G34)
   * iOS 9.3.4 (Genoa 13G35)
 
-* iPad 3 Wifi [iPad3,1 (J1AP)]:
-  * iOS 9.3.4 (Genoa 13G35)
-
-* iPad 3 CDMA [iPad3,2 (J2AP)]:
-  * iOS 9.3.2 (Eagle 13E238)
-
-* iPad 3 GSM [iPad3,3 (J2AAP)]:
-  * iOS 9.3.3 (Genoa 13G34)
-
-* iPod touch 5 [iPod5,1 (N78AP)]:
-  * iOS 9.1 (Boulder 13B143)
-  * iOS 9.3.2 (Frisco 13F69)
-
 * iPad 2 Wifi (Mid 2012) 16gb-Only-Model [iPad2,4 (K93AAP)]  
   * iOS 9.1 (Boulder 13B143)
   * iOS 9.2 (Castlerock 13C57)
@@ -95,8 +109,119 @@ Usage description and Information can be found futher down!
   * iOS 9.3.2 (Frisco 13F69)
   * iOS 9.3.3 (Genoa 13G34)
   * iOS 9.3.4 (Genoa 13G35)
- 
- 
+
+* iPad Mini WiFi [iPad2,5 (P105AP)]
+  * iOS 9.1 (Boulder 13B143)
+  * iOS 9.2 (Castlerock 13C57)
+  * iOS 9.2.1 (Dillon 13D15)
+  * iOS 9.3 (Eagle 13E233)
+  * iOS 9.3 (Eagle 13E237)
+  * iOS 9.3.1 (Eagle 13E238)
+  * iOS 9.3.2 (Frisco 13F69)
+  * iOS 9.3.3 (Genoa 13G34)
+  * iOS 9.3.4 (Genoa 13G35)
+
+* iPad Mini GSM [iPad2,6 (P106AP)]
+  * iOS 9.1 (Boulder 13B143)
+  * iOS 9.2 (Castlerock 13C57)
+  * iOS 9.2.1 (Dillon 13D15)
+  * iOS 9.3 (Eagle 13E233)
+  * iOS 9.3 (Eagle 13E237)
+  * iOS 9.3.1 (Eagle 13E238)
+  * iOS 9.3.2 (Frisco 13F69)
+  * iOS 9.3.3 (Genoa 13G34)
+  * iOS 9.3.4 (Genoa 13G35)
+
+* iPad Mini Global [iPad2,7 (P107AP)]
+  * iOS 9.1 (Boulder 13B143)
+  * iOS 9.2 (Castlerock 13C57)
+  * iOS 9.2.1 (Dillon 13D15)
+  * iOS 9.3 (Eagle 13E233)
+  * iOS 9.3 (Eagle 13E237)
+  * iOS 9.3.1 (Eagle 13E238)
+  * iOS 9.3.2 (Frisco 13F69)
+  * iOS 9.3.3 (Genoa 13G34)
+  * iOS 9.3.4 (Genoa 13G35)
+
+* iPad 3 Wifi [iPad3,1 (J1AP)]:
+  * iOS 9.1 (Boulder 13B143)
+  * iOS 9.2 (Castlerock 13C57)
+  * iOS 9.2.1 (Dillon 13D15)
+  * iOS 9.3 (Eagle 13E233)
+  * iOS 9.3 (Eagle 13E237)
+  * iOS 9.3.1 (Eagle 13E238)
+  * iOS 9.3.2 (Frisco 13F69)
+  * iOS 9.3.3 (Genoa 13G34)
+  * iOS 9.3.4 (Genoa 13G35)
+
+* iPad 3 CDMA [iPad3,2 (J2AP)]:
+  * iOS 9.1 (Boulder 13B143)
+  * iOS 9.2 (Castlerock 13C57)
+  * iOS 9.2.1 (Dillon 13D15)
+  * iOS 9.3 (Eagle 13E233)
+  * iOS 9.3 (Eagle 13E237)
+  * iOS 9.3.1 (Eagle 13E238)
+  * iOS 9.3.2 (Frisco 13F69)
+  * iOS 9.3.3 (Genoa 13G34)
+  * iOS 9.3.4 (Genoa 13G35)
+
+* iPad 3 GSM [iPad3,3 (J2AAP)]:
+  * iOS 9.1 (Boulder 13B143)
+  * iOS 9.2 (Castlerock 13C57)
+  * iOS 9.2.1 (Dillon 13D15)
+  * iOS 9.3 (Eagle 13E233)
+  * iOS 9.3 (Eagle 13E237)
+  * iOS 9.3.1 (Eagle 13E238)
+  * iOS 9.3.2 (Frisco 13F69)
+  * iOS 9.3.3 (Genoa 13G34)
+  * iOS 9.3.4 (Genoa 13G35)
+
+* iPad 4 Wifi [iPad3,4 (P101AP)]:
+  * iOS 9.1 (Boulder 13B143)
+  * iOS 9.2 (Castlerock 13C57)
+  * iOS 9.2.1 (Dillon 13D15)
+  * iOS 9.3 (Eagle 13E233)
+  * iOS 9.3 (Eagle 13E237)
+  * iOS 9.3.1 (Eagle 13E238)
+  * iOS 9.3.2 (Frisco 13F69)
+  * iOS 9.3.3 (Genoa 13G34)
+  * iOS 9.3.4 (Genoa 13G35)
+
+* iPad 4 GSM [iPad3,5 (P102AP)]:
+  * iOS 9.1 (Boulder 13B143)
+  * iOS 9.2 (Castlerock 13C57)
+  * iOS 9.2.1 (Dillon 13D15)
+  * iOS 9.3 (Eagle 13E233)
+  * iOS 9.3 (Eagle 13E237)
+  * iOS 9.3.1 (Eagle 13E238)
+  * iOS 9.3.2 (Frisco 13F69)
+  * iOS 9.3.3 (Genoa 13G34)
+  * iOS 9.3.4 (Genoa 13G35)
+
+* iPad 4 Global [iPad3,6 (P103AP)]:
+  * iOS 9.1 (Boulder 13B143)
+  * iOS 9.2 (Castlerock 13C57)
+  * iOS 9.2.1 (Dillon 13D15)
+  * iOS 9.3 (Eagle 13E233)
+  * iOS 9.3 (Eagle 13E237)
+  * iOS 9.3.1 (Eagle 13E238)
+  * iOS 9.3.2 (Frisco 13F69)
+  * iOS 9.3.3 (Genoa 13G34)
+  * iOS 9.3.4 (Genoa 13G35)
+
+* iPod touch 5 [iPod5,1 (N78AP)]:
+  * iOS 9.1 (Boulder 13B143)
+  * iOS 9.2 (Castlerock 13C57)
+  * iOS 9.2.1 (Dillon 13D15)
+  * iOS 9.3 (Eagle 13E233)
+  * iOS 9.3 (Eagle 13E237)
+  * iOS 9.3.1 (Eagle 13E238)
+  * iOS 9.3.2 (Frisco 13F69)
+  * iOS 9.3.3 (Genoa 13G34)
+  * iOS 9.3.4 (Genoa 13G35)
+
+
+
 ### The following devices can be downgraded to 6.1.3 with Trident+Kloader:
 (Because the OTA update for iOS 6.1.3 is still signed for devices sold with iOS 5.0)
 
